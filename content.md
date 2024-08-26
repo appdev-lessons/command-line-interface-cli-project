@@ -26,6 +26,7 @@ Your project must demonstrate the following criteria:
   - And potentially other functional requirements like user interface, commands, etc.
 
 ## Examples
+- [Calculator CLI](https://github.com/DPI-WE/calculator-cli) - a command line interface app to perform simple arithmetic operations 🧮
 - [Library CLI](https://github.com/heratyian/library-cli) - a command line interface app to simulate a library 📚
 - [Garage CLI](https://github.com/Dantexkilljoy/garage-cli) - a command line app to simulate a valet parking garage 🚗
 - [Pet Cat CLI](https://github.com/jptran0/cat-cli) - a command line interface app to simulate a pet cat 🐈
