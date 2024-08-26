@@ -19,9 +19,14 @@ Your project must demonstrate the following criteria:
   - [gets](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference#gets)
   - [chomp](https://learn.firstdraft.com/lessons/33-the-one-ruby-reference#chomp)
 - A meaningful repo name with a `README.md` that includes details on what your CLI app does and how to use it.
-- Include 1 or 2 tests as described in [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest).  Be sure to put your test(s) in a folder named `tests/`.
+- Include 1 or 2 tests as described in [Testing your code with MiniTest 🧪](https://learn.firstdraft.com/lessons/292-minitest). Be sure to put your test(s) in a folder named `tests/`.
+- Include a `functional_spec.md` file in your repository that outlines the functional requirements of your CLI app. This document should include:
+  - **Introduction**: Brief description of the application. What problem does it solve, or what functionality does it provide?
+  - **User Stories**: Describe the features from the user’s perspective. For example, `As a [user type], I want to [do something], so that [I achieve some goal]`.
+  - And potentially other functional requirements like user interface, commands, etc.
 
 ## Examples
+- [Calculator CLI](https://github.com/DPI-WE/calculator-cli) - a command line interface app to perform simple arithmetic operations 🧮
 - [Library CLI](https://github.com/heratyian/library-cli) - a command line interface app to simulate a library 📚
 - [Garage CLI](https://github.com/Dantexkilljoy/garage-cli) - a command line app to simulate a valet parking garage 🚗
 - [Pet Cat CLI](https://github.com/jptran0/cat-cli) - a command line interface app to simulate a pet cat 🐈
