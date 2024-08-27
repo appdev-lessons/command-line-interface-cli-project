@@ -36,4 +36,22 @@ Your project must demonstrate the following criteria:
 ## What to submit
 Submit a GitHub URL. Make sure your GitHub repository has a name reflective of what the code does.
 
-<!-- TODO: submit url here -->
+- Enter your `github.com/username/project-name` GitHub repository URL:
+- github.com
+  - Great job!
+- any
+  - Not quite. Make sure the URL looks like: `https://github.com/username/project-name`
+{: .free_text #github_repo_url title="GitHub repository URL" points="1" answer="1" }
+
+
+<div class="alert alert-danger mt-2">
+
+After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit your CLI GitHub project URL".
+
+An instructor will provide additional feedback on your submission there.
+</div>
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
